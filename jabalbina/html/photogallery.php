@@ -1,0 +1,1 @@
+<p>Photo gallery</p>
