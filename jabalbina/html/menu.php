@@ -1,6 +1,5 @@
 <div class="container" id="menu_container">
-
-    <div id="Banner03Div" style="overflow: hidden; height: 50px">
+    <div id="Banner03Div">
         <img src="images/banner03.jpg" class="Banner03 img-rounded" style="width: 100%; max-width: 100%">
     </div>
     <nav role="navigation" class="navbar navbar-default">
