@@ -3,7 +3,7 @@
 if (isset($_GET["newsletter"])) {
     $newsletter = $_GET["newsletter"];
     ?>
-    <object class="Newsletter" data="newsletters/<?php echo $newsletter ?>" type="application/pdf">
+    <object class="Newsletter" data="resources/newsletters/<?php echo $newsletter ?>" type="application/pdf">
         <p>It appears you don't have a PDF plugin for this browser.
             No biggie... you can <a href="/<?php echo $newsletter ?>">click here to
                 download the PDF file.</a></p>

@@ -54,7 +54,7 @@
 <div class="row">
 <div class="span4 collapse-group">
     <div class="col-lg-4 full_columns" style="width: 100%">
-        <div class="panel panel-warning">
+        <div class="panel panel-success">
             <div class="panel-heading  btn full_columns text-left">
                 <h3 class="panel-title">Governance and operations</h3>
             </div>
@@ -123,7 +123,7 @@
 </div>
 <div class="span4 collapse-group">
     <div class="col-lg-4 full_columns" style="width: 100%">
-        <div class="panel panel-primary">
+        <div class="panel panel-info">
             <div class="panel-heading btn full_columns text-left">
                 <h3 class="panel-title">Functions</h3>
             </div>

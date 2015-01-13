@@ -1,6 +1,6 @@
 <div class="container" id="menu_container">
 
-    <div id="Banner03Div"  style="overflow: hidden; height: 50px">
+    <div id="Banner03Div" style="overflow: hidden; height: 50px">
         <img src="images/banner03.jpg" class="Banner03 img-rounded" style="width: 100%; max-width: 100%">
     </div>
     <nav role="navigation" class="navbar navbar-default">
@@ -26,10 +26,10 @@
                         <li><a href="?content=newsletter.php&newsletter=EKY IPA Newsletter June 2013.pdf">June 2013</a>
                         </li>
                         <li class="divider"></li>
-                        <li><a href="?content=newsletter.php&newsletter=EKY IPA Newsletter April 2012.pdf">April
-                                2012</a></li>
                         <li><a href="?content=newsletter.php&newsletter=EKY IPA Newsletter October 2012.pdf"">October
                             2012</a></li>
+                        <li><a href="?content=newsletter.php&newsletter=EKY IPA Newsletter April 2012.pdf">April
+                                2012</a></li>
                         <li><a href="?content=newsletter.php&newsletter=EKY IPA Newsletter October 2011.pdf"">October
                             2011</a></li>
                     </ul>
@@ -41,11 +41,15 @@
             </ul>
             <ul class="nav navbar-nav">
                 <li><a href="?content=directors.php"><span
-                            class="glyphicon glyphicon-user"></span> Directors  </a></li>
+                            class="glyphicon glyphicon-user"></span> Directors </a></li>
             </ul>
             <ul class="nav navbar-nav">
                 <li><a href="?content=directors.php"><span
                             class="glyphicon glyphicon-picture"></span> Photogallery</a></li>
+            </ul>
+            <ul class="nav navbar-nav">
+                <li><a href="?content=links.php"><span
+                            class="glyphicon glyphicon-leaf"></span> Links</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="?content=contact.php"><span

@@ -12,6 +12,7 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <link rel="stylesheet/css" type="text/css" href="lib/bootstrap-theme.min.css">
     <link rel="stylesheet/less" type="text/css" href="css/custom.less">
+    <link rel="stylesheet/less" type="text/css" href="css/panels.less">
     <script src="js/main.js" type="text/javascript"></script>
     <script src="lib/less-1.7.0.min.js" type="text/javascript"></script>
 </head>
