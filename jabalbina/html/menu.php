@@ -43,7 +43,7 @@
                             class="glyphicon glyphicon-user"></span> Directors </a></li>
             </ul>
             <ul class="nav navbar-nav">
-                <li><a href="?content=directors.php"><span
+                <li><a href="?content=photogallery.php"><span
                             class="glyphicon glyphicon-picture"></span> Photogallery</a></li>
             </ul>
             <ul class="nav navbar-nav">
